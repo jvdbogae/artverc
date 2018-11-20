@@ -3,7 +3,7 @@ This page contains urls that will be of use during the hackathon
 ## Official Gazettes
 * [The Kenya Gazette](http://kenyalaw.org/kenya_gazette/)
 ## Laws
-* [World Legal Information Institute](World Legal Information Institute)
+* [World Legal Information Institute](http://www.worldlii.org/)
 * [Laws of Tanzania, 2002-2017](http://www.lrct.go.tz/laws-of-tanzania/)
 
 ## Monolingual data
