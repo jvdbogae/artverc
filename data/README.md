@@ -1,7 +1,8 @@
 # Urls
 This page contains urls that will be of use during the hackathon
 ## Official Gazettes
-* [The Kenya Gazette](http://kenyalaw.org/kenya_gazette/)
+* [Kenya Gazette](http://kenyalaw.org/kenya_gazette/)
+* [Tanzania Gazette](http://www.utumishi.go.tz/utumishiweb/index.php?option=com_phocadownload&view=category&id=8&Itemid=179&lang=en)
 ## Laws
 * [World Legal Information Institute](http://www.worldlii.org/)
 * [Laws of Tanzania, 2002-2017](http://www.lrct.go.tz/laws-of-tanzania/)
