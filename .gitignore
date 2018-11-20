@@ -1,6 +1,9 @@
 # Compiled class file
 java/**/*.class
 
+# Compiled files
+java/target/**
+
 # Log file
 java/**/*.log
 
