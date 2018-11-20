@@ -1,6 +1,6 @@
 # ARTVERC 
 ## (AntiRetroviral Therapy guidelines VERsion Control)
-ARTVERC aims at tracking down Antiretroviral Therapy (ART) guideline mismatches across governments. The goal is to learn to recognize authoritative ART guidelines and flag deviating ones in various types of publications. By doing so, outdated guidelines can be detected, flagged, and updated accordingly. ARTVERC can be an important  support tool to prevent HIV from becoming drug resistant by monitoring treatment programs at the policy-making level.
+ARTVERC aims at tracking down Antiretroviral Therapy (ART) guideline mismatches across governments. The goal is to learn to recognize authoritative ART guidelines and flag deviating ones in various types of publications. By doing so, outdated guidelines can be detected, flagged, and updated accordingly. ARTVERC can be an important support tool in preventing HIV from becoming drug resistant, by monitoring treatment programs at the policy-making level.
 
 The project was pitched and developed during the DigitYser [#HIVHack Hackathon](https://hivhack.org/).
 
