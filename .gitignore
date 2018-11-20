@@ -1,19 +1,31 @@
+#####################
 # Compiled class file
+#####################
 java/**/*.class
 
+################
 # Compiled files
+################
 java/target/**
 
+##########
 # Log file
+##########
 java/**/*.log
 
+#############
 # BlueJ files
+#############
 java/**/*.ctxt
 
+##############################
 # Mobile Tools for Java (J2ME)
+##############################
 java/**/.mtj.tmp/
 
+#################
 # Package Files #
+#################
 java/**/*.jar
 java/**/*.war
 java/**/*.nar
@@ -24,3 +36,29 @@ java/**/*.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 java/**/hs_err_pid*
+
+#######
+# Maven
+#######
+java/target/
+java/pom.xml.tag
+java/pom.xml.releaseBackup
+java/pom.xml.versionsBackup
+java/pom.xml.next
+java/release.properties
+
+##########################
+## Eclipse
+##########################
+java/.metadata
+java/.classpath
+java/.project
+java/.settings/
+java/bin/
+java/tmp/
+java/*.tmp
+java/*.bak
+java/*.swp
+java/*~.nib
+java/local.properties
+java/.loadpath
