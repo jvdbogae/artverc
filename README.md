@@ -81,3 +81,9 @@ Depending on the techniques that we are going to use:
 # Related work
 ## Database of national HIV and TB guidelines, 2005-2011
 - Apparently, the World Health Organisation (WHO) already has a database of HIV guidelines, it can be found [here](http://www.who.int/hiv/pub/national_guidelines/en/). There are links for a large number of countries, (including [Kenya](http://www.who.int/hiv/pub/guidelines/kenya_art.pdf?ua=1) and [Tanzania](http://www.who.int/hiv/pub/guidelines/tanzania_art.pdf?ua=1)), and there is also a policy document available on [Adapting WHO normative HIV guidelines for national programmes](http://www.who.int/hiv/pub/who_normative/en/). What is missing though is a method for monitoring compliance.
+- The following papers may contain valuable ideas, but still need to be checked:
+  - [Recognizing Textual Entailment in Twitter Using Word Embeddings](https://repeval2017.github.io/papers/RepEval06.pdf)
+  - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364), with [InferSent code on github](https://github.com/facebookresearch/InferSent)
+  - [Probabilistic FastText for Multi-Sense Word Embeddings](http://aclweb.org/anthology/P18-1001)
+  - [Hierarchical Density Order Embeddings](https://arxiv.org/abs/1804.09843)
+  - [Specialising Word Vectors for Lexical Entailment](http://aclweb.org/anthology/N18-1103), with [LEAR code on github](https://github.com/nmrksic/lear)
