@@ -80,7 +80,5 @@ Depending on the techniques that we are going to use:
 
 # Related work
 ## Database of national HIV and TB guidelines, 2005-2011
-Apparently, the World Health Organisation aleady has a database of HIV guidelines, it can be found [here](http://www.who.int/hiv/pub/national_guidelines/en/).
-- There are links for a large number of countries, including [Kenya](http://www.who.int/hiv/pub/guidelines/kenya_art.pdf?ua=1) and [Tanzania](http://www.who.int/hiv/pub/guidelines/tanzania_art.pdf?ua=1).
-- 
+- Apparently, the World Health Organisation (WHO) already has a database of HIV guidelines, it can be found [here](http://www.who.int/hiv/pub/national_guidelines/en/). There are links for a large number of countries, (including [Kenya](http://www.who.int/hiv/pub/guidelines/kenya_art.pdf?ua=1) and [Tanzania](http://www.who.int/hiv/pub/guidelines/tanzania_art.pdf?ua=1)), and there is also a policy document available on [Adapting WHO normative HIV guidelines for national programmes](http://www.who.int/hiv/pub/who_normative/en/).
 
