@@ -30,4 +30,6 @@ Depending on the techniques that we are going to use:
   - legal texts in languages other than English that contain ART guidelines
 
 # Related work
+## Database of national HIV and TB guidelines, 2005-2011
+Apparently, the World Health Organisation aleady has a database of HIV guidelines, it can be found [here](http://www.who.int/hiv/pub/national_guidelines/en/).
 
