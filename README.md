@@ -87,3 +87,4 @@ Depending on the techniques that we are going to use:
   - [Athiwaratkun, B., Wilson, A. G., & Anandkumar, A. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. arXiv preprint arXiv:1806.02901.](http://aclweb.org/anthology/P18-1001)
   - [Athiwaratkun, B., & Wilson, A. G. (2018). Hierarchical Density Order Embeddings. arXiv preprint arXiv:1804.09843.](https://arxiv.org/abs/1804.09843)
   - [Vulić, I., & Mrkšić, N. (2017). Specialising word vectors for lexical entailment. arXiv preprint arXiv:1710.06371.](http://aclweb.org/anthology/N18-1103), with [LEAR code on github](https://github.com/nmrksic/lear)
+  - [Perone, C. S., Silveira, R., & Paula, T. S. (2018). Evaluation of sentence embeddings in downstream and linguistic probing tasks. arXiv preprint arXiv:1806.06259.](https://arxiv.org/pdf/1806.06259.pdf)
