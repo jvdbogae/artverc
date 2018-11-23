@@ -6,6 +6,14 @@ from bs4 import BeautifulSoup
 class GazetteNoticeSpider(scrapy.Spider):
     name = "Gazette Notices"
 
+    def url_generator(self,month,year):
+        return 'http://kenyalaw.org/kenya_gazette/gazette/month/{}/{}'.format(month,year)
+    def get_url_list(self,month_range=range(1,13),year_range=range(2006,2019)):
+        url_list = []
+        for m in month_range:
+            for y in year_range:
+                url_list.append(self.url_generator(m,y))
+        return url_list
     def start_requests(self):
         urls = [
             'http://kenyalaw.org/kenya_gazette/gazette/volume/MTYzNA--/Vol.CXX-No.14',
