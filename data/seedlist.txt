@@ -1,0 +1,47 @@
+# List of chemical (almost exhaustive) components
+# Used in WHO guidelines (and not the medications/drug names) according to Jenny(from Johnson & Johnson)
+
+"abacavir 
+(abacavir sulfate, ABC)"
+"emtricitabine 
+(FTC)"
+"lamivudine 
+(3TC)"
+"tenofovir disoproxil fumarate 
+(tenofovir DF, TDF)"
+"zidovudine 
+(azidothymidine, AZT, ZDV)"
+"doravirine 
+(DOR)"
+"efavirenz 
+(EFV)"
+"etravirine 
+(ETR)"
+"nevirapine 
+(extended-release nevirapine, NVP)"
+"rilpivirine 
+(rilpivirine hydrochloride, RPV)"
+"atazanavir 
+(atazanavir sulfate, ATV)"
+"darunavir 
+(darunavir ethanolate, DRV)"
+"fosamprenavir
+(fosamprenavir calcium, FOS-APV, FPV)"
+"ritonavir 
+(RTV)"
+"saquinavir 
+(saquinavir mesylate, SQV)"
+"tipranavir 
+(TPV)"
+"enfuvirtide 
+(T-20)"
+"maraviroc 
+(MVC)"
+"dolutegravir 
+(DTG, dolutegravir sodium)"
+"raltegravir 
+(raltegravir potassium, RAL)"
+"ibalizumab
+(Hu5A8, IBA, Ibalizumab-uiyk, TMB-355, TNX-355)"
+"cobicistat 
+(COBI)"
