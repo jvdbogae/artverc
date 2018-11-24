@@ -74,7 +74,7 @@ class GazetteNoticeSpider(scrapy.Spider):
     #             elif (c == 2) and succeed:
     #                 date=ele.text
     #     return href,date
-    def start_requests(self,month_range=np.linspace(1,12,dtype=np.int8),year_range=np.linspace(1,12,dtype=np.int8)):
+    def start_requests(self,month_range=np.linspace(1,12,dtype=np.int8),year_range=np.linspace(2006,2018,dtype=np.int16)):
         '''
         Start the requests for the Kenya URL based on month. Give the range for analysis as input (month from 1 to 12 and year from 2006 and 2018.
         Be aware that if you use range method, it is an exclusive range. meaning that you need range(start,stop+1).
@@ -114,6 +114,7 @@ class GazetteNoticeSpider(scrapy.Spider):
             self.df = self.df.append({'GAZETTE NOTICE':gazette_number,'date':response.meta['date'].replace(" ",""),'value':content},ignore_index=True)
             self.log(soup.get_text().strip())
             self.log('---END--\n')
+            yield {'GAZETTE NOTICE':gazette_number,'date':response.meta['date'].replace(" ",""),'value':content}
 
     def spider_idle(self, spider):
         '''

@@ -20,6 +20,19 @@ NEWSPIDER_MODULE = 'kenya_gazette.spiders'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
+ITEM_PIPELINES = {
+  'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline': 500
+}
+
+
+ELASTICSEARCH_PORT = 32769
+ELASTICSEARCH_SERVERS = 'localhost:32769'
+ELASTICSEARCH_INDEX = 'scrapy'
+ELASTICSEARCH_INDEX_DATE_FORMAT = '%Y-%m'
+ELASTICSEARCH_TYPE = 'items'
+ELASTICSEARCH_UNIQ_KEY = 'value'  # Custom unique key
+
+# can also accept a list of fields if need a composite key
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
