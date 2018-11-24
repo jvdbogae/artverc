@@ -45,3 +45,21 @@
 (Hu5A8, IBA, Ibalizumab-uiyk, TMB-355, TNX-355)"
 "cobicistat 
 (COBI)"
+
+
+Nucleoside Reverse Transcriptase Inhibitors (NRTIs)			
+NRTIs block reverse transcriptase, an enzyme HIV needs to make copies of itself.
+Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)			
+NNRTIs bind to and later alter reverse transcriptase, an enzyme HIV needs to make copies of itself.
+Protease Inhibitors (PIs)			
+PIs block HIV protease, an enzyme HIV needs to make copies of itself.
+Fusion Inhibitors			
+Fusion inhibitors block HIV from entering the CD4 cells of the immune system.
+CCR5 Antagonists			
+CCR5 antagonists block CCR5 coreceptors on the surface of certain immune cells that HIV needs to enter the cells.
+Integrase Inhibitors			
+Integrase inhibitors block HIV integrase, an enzyme HIV needs to make copies of itself.
+Post-Attachment Inhibitors			
+Post-attachment inhibitors block CD4 receptors on the surface of certain immune cells that HIV needs to enter the cells.
+Pharmacokinetic Enhancers			
+Pharmacokinetic enhancers are used in HIV treatment to increase the effectiveness of an HIV medicine included in an HIV regimen.
