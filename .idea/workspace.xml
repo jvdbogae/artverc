@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e7666f6-a0d2-4163-9a4f-2bb4e3da0b58" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapers/tanzania_gazette/tanzania_gazette/spiders/gazette_issue.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapers/kenya_gazette/kenya_gazette/items.py" afterPath="$PROJECT_DIR$/scrapers/kenya_gazette/kenya_gazette/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapers/kenya_gazette/kenya_gazette/settings.py" afterPath="$PROJECT_DIR$/scrapers/kenya_gazette/kenya_gazette/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapers/kenya_gazette/kenya_gazette/spiders/gazette_notice.py" afterPath="$PROJECT_DIR$/scrapers/kenya_gazette/kenya_gazette/spiders/gazette_notice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapers/tanzania_gazette/tanzania_gazette/items.py" afterPath="$PROJECT_DIR$/scrapers/tanzania_gazette/tanzania_gazette/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapers/tanzania_gazette/tanzania_gazette/settings.py" afterPath="$PROJECT_DIR$/scrapers/tanzania_gazette/tanzania_gazette/settings.py" />
-    </list>
+    <list default="true" id="5e7666f6-a0d2-4163-9a4f-2bb4e3da0b58" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
