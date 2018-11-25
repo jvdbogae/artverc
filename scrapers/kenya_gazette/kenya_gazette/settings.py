@@ -10,6 +10,10 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'kenya_gazette'
+<<<<<<< HEAD
+=======
+
+>>>>>>> e4e7b24ae877b1dbb08f10449e6bc99eaeae507c
 SPIDER_MODULES = ['kenya_gazette.spiders']
 NEWSPIDER_MODULE = 'kenya_gazette.spiders'
 
@@ -87,4 +91,7 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+<<<<<<< HEAD
 FEED_EXPORT_ENCODING = 'utf-8'
+=======
+>>>>>>> e4e7b24ae877b1dbb08f10449e6bc99eaeae507c

@@ -2,6 +2,7 @@ import scrapy
 from scrapy.selector import Selector
 from scrapy.http import HtmlResponse
 from bs4 import BeautifulSoup
+<<<<<<< HEAD
 from kenya_gazette.items import KenyaGazetteItem
 
 "Note that an html version of the gazette is not available for all listed years."
@@ -34,10 +35,27 @@ class GazetteNoticeSpider(scrapy.Spider):
 
 
     def parse(self, response):
+=======
+
+class GazetteNoticeSpider(scrapy.Spider):
+    name = "Gazette Notices"
+
+    def start_requests(self):
+        urls = [
+            'http://kenyalaw.org/kenya_gazette/gazette/volume/MTYzNA--/Vol.CXX-No.14',
+            'http://kenyalaw.org/kenya_gazette/gazette/volume/OTIw/Vol.%20CXV%20-%20No.%2017',
+        ]
+        for url in urls:
+            yield scrapy.Request(url=url, callback=self.parse)
+
+    def parse(self, response):
+        # self.log(response.body)
+>>>>>>> e4e7b24ae877b1dbb08f10449e6bc99eaeae507c
         for div in response.xpath('//div[starts-with(@id,"GAZETTE NOTICE")]'):
             self.log('---START---\n')
             soup = BeautifulSoup(div.extract())
             self.log(soup.get_text().strip())
+<<<<<<< HEAD
             self.log('---END--\n')
             yield KenyaGazetteItem(text=soup.get_text().strip())
 
@@ -49,3 +67,6 @@ class GazetteNoticeSpider(scrapy.Spider):
             yield KenyaGazetteItem(text=soup.get_text().strip())
 
 
+=======
+            self.log('---END--\n')
+>>>>>>> e4e7b24ae877b1dbb08f10449e6bc99eaeae507c

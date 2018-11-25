@@ -64,10 +64,16 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
+<<<<<<< HEAD
 ITEM_PIPELINES = {
 #    'tanzania_gazette.pipelines.TanzaniaGazettePipeline': 300,
     'scrapy.pipelines.files.FilesPipeline': 1,
 }
+=======
+#ITEM_PIPELINES = {
+#    'tanzania_gazette.pipelines.TanzaniaGazettePipeline': 300,
+#}
+>>>>>>> e4e7b24ae877b1dbb08f10449e6bc99eaeae507c
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -89,5 +95,8 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+<<<<<<< HEAD
 FEED_EXPORT_ENCODING = 'utf-8'
 FILES_STORE = '/Users/Joachim/Downloads'
+=======
+>>>>>>> e4e7b24ae877b1dbb08f10449e6bc99eaeae507c
